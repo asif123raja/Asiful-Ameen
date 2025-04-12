@@ -22,10 +22,10 @@ Hi there! I'm a passionate software engineer with experience in building scalabl
 
 ## 🔗 Connect with Me
 
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(Optional if you have one)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-- 🧠 [LeetCode](https://leetcode.com/yourusername)
+- 🌐 [Portfolio Website]([https://yourwebsite.com](https://asif123raja.github.io/first_portfolio/)) *(Optional if you have one)*
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/asiful-ameen-244695255/))
+- 💻 [GitHub]([https://github.com/yourusername](https://github.com/asif123raja))
+- 🧠 [LeetCode]([https://leetcode.com/yourusername](https://leetcode.com/u/asifcoding/))
 
 ---
 
